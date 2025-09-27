@@ -1,3 +1,13 @@
+---
+
+I published a write-up of this case study on Medium.
+👉 [My Bellabeat Case – Google Professional Data Analytics Milestone Project](https://medium.com/@canokten/my-bellabeat-case-google-professional-data-analytics-milestone-project-a958fd2626ef)
+
+The article walks through the data cleaning, exploratory analysis, and insights on user activity, sleep, and mindfulness habits, with recommendations for Bellabeat’s marketing strategy.
+
+---
+
+
 # Fitbit Health Data Analysis For Bellabeat Insights
 
 ## Introduction
